@@ -1,11 +1,12 @@
 ### Hi there, I'm Dinesh - Student of vitbhopal👋
+ 🎓 I am in my junior year pursuing a Bachelors in Computer Science Engineering degree at Vellore Institute of Technology Bhopal, Madhya Pradesh, India.
 
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work on web projects with other developers out there
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movies and learning new technologies
+- ⚡ Fun fact: I love to  learning new technologies and watch movies
 
 ### Connect with me:
 
