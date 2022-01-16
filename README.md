@@ -1,4 +1,4 @@
-### Hi there, I'm Dinesh - Student of vitbhopal👋
+### Hi there, I'm Dinesh - Student of VIT-Bhopal👋
  🎓 I am in my junior year pursuing a Bachelors in Computer Science Engineering degree at Vellore Institute of Technology Bhopal, Madhya Pradesh, India.
 
 ## I'm a Student and Developer!!
