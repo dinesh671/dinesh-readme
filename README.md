@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dvs dinesh kumar</h1>
-<h3 align="center">I am in my junior year pursuing a Bachelors in Computer Science Engineering degree at Vellore Institute of Technology Bhopal, Madhya Pradesh, India.</h3>
+<h3 align="center">I am in my senior year pursuing a Bachelors in Computer Science Engineering degree at Vellore Institute of Technology Bhopal, Madhya Pradesh, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh671&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh671" /> </p>
 
