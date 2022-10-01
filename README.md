@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dvs dinesh kumar</h1>
-<h3 align="center">I am in my junior year pursuing a Bachelors in Computer Science Engineering degree at Vellore Institute of Technology Bhopal, Madhya Pradesh, India.</h3>
+<h3 align="center">I am currently pursuing a Bachelors in Computer Science Engineering degree at Vellore Institute of Technology Bhopal, Madhya Pradesh, India. looking forword to learn and I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh671&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh671" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh671" alt="dinesh671" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dinesh6701" target="blank"><img src="https://img.shields.io/twitter/follow/dinesh6701?logo=twitter&style=for-the-badge" alt="dinesh6701" /></a> </p>
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **dinesh6701@outlook.com**
 
-- ⚡ Fun fact **i addicted to checkout new Js framworks that popping everyweek**
+- ⚡ Fun fact **i addicted to checking out new Js framworks that popping everyweek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
