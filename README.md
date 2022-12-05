@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dvs dinesh kumar</h1>
-<h3 align="center">I am final yearstudent at Vellore Institute of Technology Bhopal,a code enthusiast like to learn more new technologies</h3>
+<h3 align="center">I am final year student at Vellore Institute of Technology Bhopal,a code enthusiast like to learn more new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh671&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh671" /> </p>
 
