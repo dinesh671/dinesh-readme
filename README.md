@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **frontend and UI/UX design**
 
-- 📫 How to reach me **dinesh6701@outlook.com**
-
-- ⚡ Fun fact **i addicted to checkout new Js framworks that popping everyweek**
+- 📫 How to reach me **dvsdk671@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
